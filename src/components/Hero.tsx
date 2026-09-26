@@ -203,13 +203,13 @@ export const Hero: React.FC<HeroProps> = ({ onOpenBooking, totalFrames = 60 }) =
 
             <h1 className="font-serif text-4xl sm:text-6xl lg:text-7xl font-bold tracking-tight text-white leading-[1.08] drop-shadow-2xl">
               Dentistry That Feels <br />
-              <span className="italic font-normal bg-gradient-to-r from-mint-100 via-mint-400 to-brass-light bg-clip-text text-transparent">
+              <span className="italic font-normal text-[#C89D56]">
                 Like Arriving Home.
               </span>
             </h1>
 
             <p className="max-w-2xl text-sm sm:text-base text-slate-200 font-sans leading-relaxed drop-shadow">
-              Step into Oklahoma’s beloved dental experience. Authentic Victorian train depot architecture, overhead model railways, gentle family dentistry, and cutting-edge 3D orthodontics across 25+ convenient stations.
+              Step into Oklahoma’s beloved dental experience. Authentic Victorian train depot architecture, overhead model railways, gentle family dentistry, and precision digital orthodontics across 25+ convenient stations.
             </p>
           </div>
 
