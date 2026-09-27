@@ -21,6 +21,15 @@ export default {
         'display': ['Playfair Display SC', 'serif'],
         'body': ['Work Sans', 'sans-serif'],
         'mono': ['DM Mono', 'monospace']
+      },
+      keyframes: {
+        marquee: {
+          '0%': { transform: 'translateX(0%)' },
+          '100%': { transform: 'translateX(-50%)' },
+        },
+      },
+      animation: {
+        marquee: 'marquee 30s linear infinite',
       }
     },
   },
