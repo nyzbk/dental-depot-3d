@@ -25,7 +25,7 @@ export const InteractiveBento: React.FC<InteractiveBentoProps> = ({ onOpenBookin
               CENTRAL OPERATIONS / 03
             </div>
             <h2 className="font-['Playfair_Display_SC',serif] text-[40px] md:text-[56px] leading-[0.95] text-[#F4EEE5]">
-              High-Velocity Clinical Telemetry.
+              Comprehensive Family Dental Care.
             </h2>
           </div>
           <p className="text-[14px] md:text-[15px] text-[#9EABA2] max-w-md font-['Work_Sans',sans-serif] leading-relaxed">
@@ -41,7 +41,7 @@ export const InteractiveBento: React.FC<InteractiveBentoProps> = ({ onOpenBookin
               <div className="flex items-center justify-between border-b border-[#C89D56]/20 pb-4 mb-6">
                 <span className="text-[11px] font-mono text-[#C89D56] tracking-widest uppercase flex items-center gap-2">
                   <Ticket className="w-4 h-4 text-[#C89D56]" />
-                  INTERACTIVE BOARDING PASS CONFIGURATOR
+                  FAMILY DENTAL RESERVATION
                 </span>
                 <span className="px-2.5 py-0.5 rounded-full bg-[#E67E22]/20 text-[#E67E22] text-[10px] font-mono font-bold animate-pulse">
                   READY FOR DISPATCH
@@ -148,7 +148,7 @@ export const InteractiveBento: React.FC<InteractiveBentoProps> = ({ onOpenBookin
             </div>
             <div className="mt-6 pt-4 border-t border-[#C89D56]/15 flex items-center gap-2 text-[11px] font-mono text-[#9EABA2]">
               <span className="w-2 h-2 rounded-full bg-emerald-400" />
-              Realtime telemetry verified
+              Board-certified clinical care
             </div>
           </div>
 
